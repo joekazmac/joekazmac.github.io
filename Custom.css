@@ -1,0 +1,41 @@
+#background {
+  background-color: #518bff;
+}
+
+.jumbo-h1 {
+  text-align: center;
+  color: blue;
+}
+
+.jumbo-p {
+  text-align: center;
+  color: #7e8dff;
+}
+
+.col-h1-1 {
+  color: lightgrey;
+  font-family: fantasy;
+}
+
+.col-p {
+  color: lightgrey;
+}
+
+.col-h1-2 {
+  float: right;
+  color: lightgrey;
+  font-family: fantasy;
+}
+
+#title-exercises {
+  color: darkblue;
+  font-family: fantasy;
+}
+
+.col-bckgrnd {
+  background-color: darkgrey;
+}
+
+.draggable-exercises {
+  color: #15c901;
+}
